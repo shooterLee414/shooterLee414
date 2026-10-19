@@ -1,28 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="206.4" viewBox="0 0 1200 344" role="img" aria-labelledby="title desc">
-  <title id="title">LiJiahe — Development and Design</title>
-  <desc id="desc">Digital Media Technology student at Fuzhou University. A cream, navy and orange banner with code and design motifs.</desc>
-  <rect width="1200" height="344" rx="22" fill="#F4F1EB"/>
-  <rect x="1" y="1" width="1198" height="342" rx="21" fill="none" stroke="#DEDAD2"/>
-  <rect x="52" y="46" width="7" height="17" rx="2" fill="#D65A38"/>
-  <text x="73" y="60" fill="#3C4A5D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3">DEVELOPMENT &amp; DESIGN</text>
-  <text x="48" y="160" fill="#172A43" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">LiJiahe<tspan fill="#D65A38">.</tspan></text>
-  <text x="54" y="210" fill="#172A43" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="0.5">C/C++ · UI Development · Visual Design</text>
-  <path d="M54 247H650" fill="none" stroke="#D5D1C9"/>
-  <text x="54" y="281" fill="#3C4A5D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16">Fuzhou University</text>
-  <circle cx="212" cy="276" r="2.5" fill="#D65A38"/>
-  <text x="229" y="281" fill="#3C4A5D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16">Digital Media Technology</text>
-  <g transform="translate(796 51)">
-    <path d="M0 0H23M0 0V23M348 0H325M348 0V23M0 242H23M0 242V219M348 242H325M348 242V219" fill="none" stroke="#C3BEB5" stroke-width="1.5"/>
-    <circle cx="266" cy="64" r="56" fill="#D65A38"/>
-    <rect x="36" y="39" width="199" height="166" rx="13" fill="#D6DFE7" transform="rotate(-7 135 122)"/>
-    <rect x="77" y="78" width="231" height="148" rx="12" fill="#172A43"/>
-    <path d="M77 107H308" fill="none" stroke="#3D4C62"/>
-    <circle cx="94" cy="92" r="3" fill="#D65A38"/>
-    <circle cx="106" cy="92" r="3" fill="#F4F1EB" opacity="0.7"/>
-    <circle cx="118" cy="92" r="3" fill="#D6DFE7" opacity="0.4"/>
-    <path d="M143 139L121 159L143 179M239 139L261 159L239 179" fill="none" stroke="#F4F1EB" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M203 132L182 186" fill="none" stroke="#E88161" stroke-width="7" stroke-linecap="round"/>
-    <rect x="18" y="170" width="47" height="47" rx="9" fill="#F4F1EB" stroke="#D65A38" stroke-width="2"/>
-    <path d="M31 193H52M41.5 182.5V203.5" fill="none" stroke="#D65A38" stroke-width="2"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="201.6" viewBox="0 0 1200 336" role="img" aria-labelledby="title desc">
+  <title id="title">ShooterLee — Development and Design</title>
+  <desc id="desc">SHOOTERLEE in oversized navy and orange lettering. Digital Media Technology student at Fuzhou University.</desc>
+  <rect width="1200" height="336" rx="22" fill="#F4F1EB"/>
+  <rect x="1" y="1" width="1198" height="334" rx="21" fill="none" stroke="#DEDAD2"/>
+  <rect x="54" y="39" width="7" height="17" rx="2" fill="#D65A38"/>
+  <text x="75" y="53" fill="#3C4A5D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3">DEVELOPMENT &amp; DESIGN</text>
+  <text x="48" y="195" textLength="1094" lengthAdjust="spacingAndGlyphs" fill="#172A43" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="142" font-weight="800" letter-spacing="-5">SHOOTER<tspan fill="#D65A38">LEE</tspan></text>
+  <text x="54" y="241" fill="#172A43" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="21" font-weight="500" letter-spacing="0.5">C/C++ · UI Development · Visual Design</text>
+  <path d="M54 269H1146" fill="none" stroke="#D5D1C9"/>
+  <text x="54" y="303" fill="#3C4A5D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16">Fuzhou University</text>
+  <circle cx="212" cy="298" r="2.5" fill="#D65A38"/>
+  <text x="229" y="303" fill="#3C4A5D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16">Digital Media Technology</text>
 </svg>
