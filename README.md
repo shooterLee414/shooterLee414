@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=shooterlee" alt="ShooterLee — Digital Media Technology at Fuzhou University" width="100%" />
+  <img src="./assets/hero.svg?v=ascii-mint" alt="ShooterLee — Digital Media Technology at Fuzhou University" width="100%" />
 </p>
 
 <p align="center">
