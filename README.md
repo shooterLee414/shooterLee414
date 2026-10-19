@@ -1,48 +1,63 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="LiJiahe · 李镓禾 — 福州大学 · 数字媒体技术" width="100%" />
+  <img src="./assets/hero.svg" alt="LiJiahe — Digital Media Technology at Fuzhou University" width="100%" />
 </p>
 
 <p align="center">
-  <b>C/C++ · Linux · Qt · Python · Vibe Coding</b>
+  <img src="./assets/badges/cpp.svg" alt="C/C++" height="28" />
+  <img src="./assets/badges/linux.svg" alt="Linux" height="28" />
+  <img src="./assets/badges/qt.svg" alt="Qt" height="28" />
+  <img src="./assets/badges/python.svg" alt="Python" height="28" />
+  <img src="./assets/badges/vibe-coding.svg" alt="Vibe Coding with ChatGPT" height="28" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/shooterLee414">GitHub · shooterLee414</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:shooterlee414@gmail.com">shooterlee414@gmail.com</a>
+  <a href="mailto:shooterlee414@gmail.com"><img src="./assets/badges/email.svg" alt="Email: shooterlee414@gmail.com" height="28" /></a>
+  <a href="https://github.com/shooterLee414"><img src="./assets/badges/github.svg" alt="GitHub: shooterLee414" height="28" /></a>
 </p>
 
-## 你好，我是李镓禾
+### 👋 About Me
 
-我是 **LiJiahe（李镓禾）**，一名来自 **福州大学** 的 **数字媒体技术** 专业学生。
+- 🎓 **LiJiahe** · Digital Media Technology student at **Fuzhou University**.
+- 💻 Building small projects with **C/C++** and creating interfaces and visual output with **Qt**.
+- 🎮 Familiar with **C#**, with experience developing small **Unity** games.
+- 🐍 Learning **Python**, with a focus on sending and receiving data in web and client applications.
+- 🤝 Served as a **product manager** on competition projects.
 
- C/C++ 编写小型项目，用 Qt 实现界面与可视化输出，也做过 Unity 小游戏。
+### 🎨 Design & Creative Tools
 
-使用视觉设计和视频剪辑工具，曾担任比赛项目的产品经理。
+<p>
+  <img src="./assets/badges/figma.svg" alt="Figma" height="28" />
+  <img src="./assets/badges/photoshop.svg" alt="Photoshop" height="28" />
+  <img src="./assets/badges/canva.svg" alt="Canva" height="28" />
+  <img src="./assets/badges/after-effects.svg" alt="After Effects" height="28" />
+  <img src="./assets/badges/capcut.svg" alt="CapCut" height="28" />
+</p>
 
-## 技术与工具
+Proficient with **Figma, Photoshop and Canva** for visual design, and **After Effects and CapCut** for video editing and visual content.
 
-| 方向 | 技术与工具 | 实践与掌握程度 |
-| :--- | :--- | :--- |
-| **编程与界面开发** | C/C++ · Qt | 掌握 C/C++，能够编写小型项目；使用 Qt 实现界面与可视化输出。 |
-| **游戏与数据交互** | C# · Unity · Python | 了解 C#，有 Unity 小游戏开发经历；具备 Python 基础，主要接触网页与客户端的数据收发。 |
-| **视觉设计** | Figma · Photoshop · Canva | 熟练使用设计工具，完成视觉内容制作。 |
-| **视频制作** | After Effects · 剪映 | 熟练使用视频工具，完成剪辑与视觉内容制作。 |
-| **开发环境与工程实践** | Linux | 使用 Git 管理项目，使用 Docker 进行部署。 |
+### 🧰 Development Tools
 
-## 项目实践
+<p>
+  <img src="./assets/badges/csharp.svg" alt="C#" height="28" />
+  <img src="./assets/badges/unity.svg" alt="Unity" height="28" />
+  <img src="./assets/badges/git.svg" alt="Git" height="28" />
+  <img src="./assets/badges/docker.svg" alt="Docker" height="28" />
+</p>
 
-### 物流管理系统
+Using **Git** for version control and **Docker** for deployment.
 
-使用 **纯 C 语言** 编写的物流管理系统，将 C 语言基础应用到具体业务场景中。
+### 🛠 Featured Project
 
-## 竞赛经历
+**Logistics Management System** — Written entirely in **C**, applying programming fundamentals to a logistics management scenario.
 
-| 赛事 | 全国奖项 | 省级 / 赛区奖项 |
-| :--- | :--- | :--- |
-| **中国大学生计算机设计大赛** | 全国三等奖 | 福建省一等奖、福建省三等奖 |
-| **海峡两岸服务创新创业大赛暨计算机软件设计大赛** | 全国三等奖 | 福建省一等奖 |
-| **服务外包创新创业大赛** | 全国三等奖 | 东部赛区二等奖 |
+### 🏆 Awards
+
+- **National Third Prize · Fujian First & Third Prizes**  
+  China Collegiate Computing Design Competition
+- **National Third Prize · Fujian First Prize**  
+  Cross-Strait Service Innovation & Entrepreneurship and Computer Software Design Competition
+- **National Third Prize · Eastern Region Second Prize**  
+  Service Outsourcing Innovation & Entrepreneurship Competition
 
 ---
 
