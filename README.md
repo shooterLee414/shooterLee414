@@ -62,5 +62,5 @@ Using **Git** for version control and **Docker** for deployment.
 ---
 
 <p align="center">
-  <sub>LiJiahe · Fuzhou University · Digital Media Technology</sub>
+  <sub>ShooterLee · Fuzhou University · Digital Media Technology</sub>
 </p>
