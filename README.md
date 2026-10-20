@@ -17,7 +17,7 @@
 
 ### 👋 About Me
 
-- 🎓 **LiJiahe** · Digital Media Technology student at **Fuzhou University**.
+- 🎓 **LiJiahe** · Digital Media Technology student at **Fuzhou University** in 2025.
 - 💻 Building small projects with **C/C++** and creating interfaces and visual output with **Qt**.
 - 🎮 Familiar with **C#**, with experience developing small **Unity** games.
 - 🐍 Learning **Python**, with a focus on sending and receiving data in web and client applications.
